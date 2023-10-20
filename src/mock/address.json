@@ -1,0 +1,43 @@
+[
+    {
+      "id": "1",
+      "consignee":"张龙",
+      "fullAdress":"北京市朝阳区鸳鸯天都",
+      "isDefault":"0",
+      "phoneNum":"15820166643",
+      "provinceId":1,
+      "userAddress":"北京市朝阳区鸳鸯天都",
+      "userId":2
+    },
+    {
+      "id": "2",
+      "consignee":"李四",
+      "fullAdress":"广东省北京市朝阳区鸳鸯天都",
+      "isDefault":"0",
+      "phoneNum":"13320166643",
+      "provinceId":5,
+      "userAddress":"广东省北京市朝阳区鸳鸯天都",
+      "userId":2
+    },
+    {
+      "id": "3",
+      "consignee":"张龙",
+      "fullAdress":"北京市朝阳区鸳鸯天都",
+      "isDefault":"1",
+      "phoneNum":"15820166643",
+      "provinceId":1,
+      "userAddress":"北京市朝阳区鸳鸯天都",
+      "userId":2
+    },
+    {
+      "id": "4",
+      "consignee":"张龙",
+      "fullAdress":"北京市朝阳区鸳鸯天都",
+      "isDefault":"0",
+      "phoneNum":"15820166643",
+      "provinceId":1,
+      "userAddress":"北京市朝阳区鸳鸯天都",
+      "userId":2
+    }
+  ]
+  
