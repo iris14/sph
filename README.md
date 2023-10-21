@@ -122,7 +122,7 @@ this.$router.push({name:"search",params:{keyWord:this.keyWord},query:{k:this.key
 缺陷：只解决单个编程式导航
 重写push方法
 
-![image-20231020103659502](F:\3.Vue\app\images\image-20231020103659502.png)
+![image-20231020103659502](https://github.com/iris14/sph/blob/main/images/image-20231020103659502.png)
 
 4. **路由组件能否传递props数据**
    1. 布尔值写法：只能传递params参数。
